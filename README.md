@@ -57,8 +57,7 @@ This project uses **OpenAI Whisper** to convert audio into text and then refines
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/jayanth-amujuri/Audio-To-Video-LLM-Model.git
-
+git clone https://github.com/jayanth-amujuri/Audio-To-Text-LLM-Model.git
 cd Audio-To-Video-LLM-Model
 
 pip install -r backend/requirements.txt
