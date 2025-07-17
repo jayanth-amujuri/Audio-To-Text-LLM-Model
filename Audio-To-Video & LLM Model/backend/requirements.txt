@@ -1,0 +1,18 @@
+
+# Whisper module for audio transcription
+whisper
+
+# OpenAI Python client for LLM calls
+openai
+
+# PyTorch backend for Whisper and LLM
+torch
+
+# Transformers library for LLM if using Hugging Face models
+transformers
+
+# Flask for backend server (Python side)
+flask
+
+# python-dotenv for managing .env secrets
+python-dotenv
